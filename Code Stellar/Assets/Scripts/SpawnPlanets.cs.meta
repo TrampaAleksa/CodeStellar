@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1c1f1229aa077494aa3c01f6b4b7510a
+timeCreated: 1519330975
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - planet1: {fileID: 1006445033234174, guid: 88472312a1a3ca3438e943f308d89a40, type: 2}
+  - planet2: {fileID: 1006445033234174, guid: 88472312a1a3ca3438e943f308d89a40, type: 2}
+  - planet3: {fileID: 1006445033234174, guid: 88472312a1a3ca3438e943f308d89a40, type: 2}
+  - planet4: {fileID: 1006445033234174, guid: 88472312a1a3ca3438e943f308d89a40, type: 2}
+  - planet5: {fileID: 1006445033234174, guid: 88472312a1a3ca3438e943f308d89a40, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
